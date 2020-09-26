@@ -649,6 +649,9 @@ img {
 .subscribe-form {
 	padding: 130px 60px 0 60px;
 }
+.subscribe-form p {
+    color: #fff;
+}
 .subscribe-body {
 	padding-top: 100px;
     background-image: -webkit-linear-gradient(135deg, #BB1616 0, #750c2e 51%, #BB1616 100%);
