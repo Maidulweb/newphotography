@@ -51,6 +51,15 @@ h2 {
 .footer-nav-link li {
     margin: 0 4px;
 }
+.how-work-img:before {
+    display: none;
+}
+.hr-design:before {
+    display: none;
+}
+.padd-top-80 {
+    padding-top: 20px;
+}
 
 }
 
@@ -96,6 +105,15 @@ background: #8b0f17;
 }
 .ask-question-contact-form {
     padding: 30px 10px;
+}
+.how-work-img:before {
+    display: none;
+}
+.hr-design:before {
+    display: none;
+}
+.padd-top-80 {
+    padding-top: 20px;
 }
 }
 
