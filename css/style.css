@@ -266,7 +266,11 @@ img {
 	height: auto
 
 }
-
+.temporary {
+    color: #fff;
+    font-style: italic;
+    font-size: 30px;
+}
 .new-btn {
 	display: inline-block;
     text-align: center;
