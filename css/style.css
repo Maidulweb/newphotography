@@ -1009,9 +1009,29 @@ img {
 
 
 
+.about-body {
+    padding-bottom: 40px;
+}
+.pages-header-banner {
+    height: 550px;
+}
+.pages-banner-body h2 {
+    color: #fff;
 
-
-
+}
+.pages-about-photo {
+    padding: 40px 0px;
+}
+.pages-about-photo h2 {
+    color: #BB1616;
+}
+.pages-banner-body i {
+    color: #fff;
+    padding: 0 4px;
+}
+.pages-banner-body a {
+    color: #fff;
+}
 
 
 
