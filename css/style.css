@@ -329,7 +329,7 @@ img {
 	
 }
 
-.fixed-top {
+.padd-35.fixed-top {
     position: fixed !important;
     top: 0 !important;
     right: 0 !important;
@@ -341,9 +341,7 @@ img {
 	transition: .5s;
     -webkit-transition: .5s;
     background-size: 250% auto;
-}
-.fixed-top.padd-35 {
-	padding: 0 !important;
+    padding: 0 0 0 10px !important;
 }
 
 .nav-item {
