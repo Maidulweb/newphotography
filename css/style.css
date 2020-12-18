@@ -326,7 +326,7 @@ img {
 	padding: 80px 0;
 }
 .nav-menu {
-	
+    height: 123px;
 }
 
 .padd-35.fixed-top {
@@ -784,8 +784,8 @@ img {
 }
 .how_to_install_icon2 {
     width: 70px;
-    height: 70px;
-    background-color: #5390DC;
+    height: 81px;
+    background-color: #fff;
     border-radius: 50%;
     float: left;
     text-align: center;
@@ -793,16 +793,16 @@ img {
     font-size: 18px;
     position: absolute;
     left: -59px;
-    top: -10px;
+    top: -18px;
     outline: none;
     border: 3px solid white;
     z-index: 1;
 }
 .how_to_install2 {
-    width: 220px;
+    width: 245px;
     padding-left: 0px!important;
     clip-path: polygon(0 0, 100% 0%, 87% 99%, 0 100%);
-    background-color: #5390DC;
+    background-color: #fff;
     padding: 10px;
     font-weight: bolder;
     color: black;
